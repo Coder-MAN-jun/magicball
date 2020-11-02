@@ -1,6 +1,6 @@
 # Magic 8 ball (Магический шар)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telegraf-spb.ru%2Fproduct%2Fmagicheskij-shar-otvetov-vosmerka-rusificirovannyj%2F&psig=AOvVaw0EFNXietuzPGgiW-qxYUyb&ust=1604407466893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi31Nvx4-wCFQAAAAAdAAAAABAL)
+![Alt-текст](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telegraf-spb.ru%2Fproduct%2Fmagicheskij-shar-otvetov-vosmerka-rusificirovannyj%2F&psig=AOvVaw0EFNXietuzPGgiW-qxYUyb&ust=1604407466893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi31Nvx4-wCFQAAAAAdAAAAABAL "Магический шар")
 ![alt text](http://url/to/img.png)
 ![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
 ![Alt-text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftiu.ru%2FMagicheskij-shar-predskazanij.html&psig=AOvVaw1EY4F1FzSkrXCUWc6LFfVg&ust=1604406470547000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCK1Yru4-wCFQAAAAAdAAAAABAQ "Magicball")
