@@ -1,7 +1,6 @@
 # Magic 8 ball (Магический шар) 1
 
 
-
 Magic 8 ball (рус. магический шар 8); также mystic 8 ball,
 
 шар судьбы, шар вопросов и ответов, шар предсказаний — игрушка, 
@@ -10,6 +9,10 @@ Magic 8 ball (рус. магический шар 8); также mystic 8 ball,
 
 Подробности по ссылке: https://ru.wikipedia.org/wiki/Magic_8_ball
 
-Автор:Муртазали Расулов, email: murtazali.rasulow.05@gmail.com
+Для запуска прогармы вам необходимо установить интерпретатор языка Ruby
 
-magicball.rb
+и в командной строке набрать: ruby magicball.rb.
+
+Автор:Муртазали Расулов, email: murtazali.rasulow.05@gmail.com.
+
+magicball.rb.
