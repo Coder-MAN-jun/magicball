@@ -1,10 +1,6 @@
 # Magic 8 ball (Магический шар)
-![](https://github.com/.png)
-![Alt-текст](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telegraf-spb.ru%2Fproduct%2Fmagicheskij-shar-otvetov-vosmerka-rusificirovannyj%2F&psig=AOvVaw0EFNXietuzPGgiW-qxYUyb&ust=1604407466893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi31Nvx4-wCFQAAAAAdAAAAABAL "Магический шар")
-![alt text](http://url/to/img.png)
-![Alt-текст](https://www.telegraf-spb.ru/product/magicheskij-shar-otvetov-vosmerka-rusificirovannyj/.png)
-![Alt-text](https://www.telegraf-spb.ru/product/magicheskij-shar-otvetov-vosmerka-rusificirovannyj/ "Magicball")
 
+![alt text](example.com/logo.png)
 Magic 8 ball (рус. магический шар 8); также mystic 8 ball,
 
 шар судьбы, шар вопросов и ответов, шар предсказаний — игрушка, 
