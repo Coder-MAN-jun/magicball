@@ -1,6 +1,6 @@
 # Magic 8 ball (Магический шар)
 
-![Магический шар](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftiu.ru%2FMagicheskij-shar-predskazanij.html&psig=AOvVaw1EY4F1FzSkrXCUWc6LFfVg&ust=1604406470547000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCK1Yru4-wCFQAAAAAdAAAAABAQ)
+![Магический шар](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftiu.ru%2FMagicheskij-shar-predskazanij.html&psig=AOvVaw1EY4F1FzSkrXCUWc6LFfVg&ust=1604406470547000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCK1Yru4-wCFQAAAAAdAAAAABAQ "Magicball")
 
 Magic 8 ball (рус. магический шар 8); также mystic 8 ball,
 
